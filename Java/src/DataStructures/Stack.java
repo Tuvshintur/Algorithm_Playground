@@ -1,3 +1,4 @@
+package DataStructures;
 
 public class Stack {
     private Node res;

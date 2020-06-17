@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class Queue {
     class Node {
         int val;

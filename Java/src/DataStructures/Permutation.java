@@ -1,3 +1,5 @@
+package DataStructures;
+
 public class Permutation {
     // Function to print all the permutations of str
     static void printPermutn(String str, String ans) {

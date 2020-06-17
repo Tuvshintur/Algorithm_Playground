@@ -1,3 +1,5 @@
+package DataStructures;
+
 import java.util.HashMap;
 
 public class Trie {
