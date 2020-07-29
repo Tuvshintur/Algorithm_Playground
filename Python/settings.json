@@ -1,6 +1,0 @@
-{
-  "code-runner.clearPreviousOutput": true,
-  "code-runner.executorMap": {
-    "python": "python3"
-  }
-}
